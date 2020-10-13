@@ -3,7 +3,7 @@
 <!--
 **esnorki2008/esnorki2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+github-readme-stats-liart-seven.vercel.app
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
