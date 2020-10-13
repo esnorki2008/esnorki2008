@@ -1,9 +1,13 @@
 ### Hi there 👋
 
+<img align="left" alt="esnorki2008's Github Stats" src="https://github-readme-stats-liart-seven.vercel.app/api?username=esnorki2008&show_icos=true&hide_border=true"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esnorki2008&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **esnorki2008/esnorki2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-github-readme-stats-liart-seven.vercel.app
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
